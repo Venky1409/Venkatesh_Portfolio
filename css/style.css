@@ -569,7 +569,8 @@ ol {
 	/* font-size: 120px; */
 	font-size: 25px;
     margin-bottom: 20px;
-	line-height: 0;
+	display: contents;
+    line-height: 2;
 	color: #505259;
 	margin-top: 60px;
 }
